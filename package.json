@@ -1,5 +1,5 @@
 {
-  "name": "todo-blockchain",
+  "name": "eth-todo-list",
   "version": "1.0.0",
   "description": "Blockchain Todo List Powered By Ethereum",
   "main": "truffle-config.js",
@@ -10,7 +10,7 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && sexit 1"
   },
-  "author": "Siddhartha Rusiya",
+  "author": "gregory@dappuniversity.com",
   "license": "ISC",
   "devDependencies": {
     "bootstrap": "4.1.3",
@@ -21,8 +21,5 @@
     "nodemon": "^1.17.3",
     "truffle": "5.0.2",
     "truffle-contract": "3.0.6"
-  },
-  "dependencies": {
-    "web3": "^1.3.5"
   }
 }
